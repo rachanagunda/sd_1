@@ -6,3 +6,5 @@ added new line
 
 adding release 2.0 changes
 
+Preparing for next release 3.0 
+

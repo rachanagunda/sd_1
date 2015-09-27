@@ -1,2 +1,2 @@
 adding new file to feature 1.2 branch which is based on master branch
-
+adding one more line to feature 1.2 branch text file 
